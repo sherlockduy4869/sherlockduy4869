@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duy-Kun
 - 👀 I’m interested in researching technology, psychology, and business
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on PHP Developer and Data Engineer using Python
+- 💞️ I’m looking to collaborate on Backend PHP Developer
 - 📫 How to reach me : sherlockduy2001@gmail.com
 
 <!---
