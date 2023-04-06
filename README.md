@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duy-Kun
 - 👀 I’m interested in researching technology, psychology, and business
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on Laravel Developer/Data Engineer/Full-Stack Developer
+- 💞️ I’m looking to collaborate on Backend Developer/Data Engineer/Full-Stack Developer
 - 📫 How to reach me : trandinhduy4869@gmail.com
 
 <!---
