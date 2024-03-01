@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Duy-Kun
-- 👀 I’m interested in researching technology, psychology, and business
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on Backend Developer/Data Engineer/Full-Stack Developer
+- 👀 I’m interested in researching web development, cloud journey, operating system
+- 💞️ I’m looking to collaborate on Full-Stack Developer Nestjs/Reactjs
 - 📫 How to reach me : trandinhduy4869@gmail.com
 
 <!---
