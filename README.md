@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Duy 
-👀 I’m interested in Cloud Computing, Data Engineering, DevSecOps, Software Development field
-💞️ I’m looking to collaborate on DataOps, DevSecOps, Data Engineer
-📫 How to reach me : trandinhduy4869@gmail.com
+👋 Hi, I’m Duy <br/>
+👀 I’m interested in Cloud Computing, Data Engineering, DevSecOps, Software Development field <br/>
+💞️ I’m looking to collaborate on DataOps, DevSecOps, Data Engineer <br/>
+📫 How to reach me : trandinhduy4869@gmail.com <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duy-tran-dinh/) 
