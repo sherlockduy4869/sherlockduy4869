@@ -3,7 +3,7 @@
 
 I’m interested in Cloud Computing and Data Engineering field. <br/>
 
-I’m looking to collaborate on DataOps, Data Engineer, Cloud Architect. <br/>
+I’m looking to collaborate on Software Engineer, Data Engineer, Cloud Architect. <br/>
 
 How to reach me : trandinhduy4869@gmail.com <br/>
 
